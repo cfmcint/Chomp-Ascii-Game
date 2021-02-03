@@ -1,4 +1,6 @@
 # Chomp-Ascii-Game
+NOTE: The formatting of the exmaple AI moves do not format correctly in the file preview provided by GitHub. To see these examples properly please
+open the actual file in 
 How to play: The game I am created is CHOMP. The game consists of a gameboard that is made up of 6 x 7 squares. To play the game, each turn the 
 player chooses a square ex. square column 4 row 3. Then the all of the squares up and to the right of that square go dark / turn off
 those squares can no longer be chosen during the gameplay. The goal of the game is to not be the person to choose the bottom most left
